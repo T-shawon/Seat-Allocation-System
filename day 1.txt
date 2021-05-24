@@ -1,0 +1,479 @@
+20101001 Monowara Tabassum Maisha Room:201 subject:CSE105 Time:9:00-12:00
+20101002 Jarin Tasnim Raya  Room:201 subject:CSE105 Time:9:00-12:00
+20101004 Md.Akteruzzaman  Dipto  Room:201 subject:CSE105 Time:9:00-12:00
+20101005 Rifa Bintee Rahmatullah  Room:201 subject:CSE105 Time:9:00-12:00
+20101006 Md. Rufiad Rahi Arnob  Room:201 subject:CSE105 Time:9:00-12:00
+20101007 Md. Mehedi Hasan  Room:201 subject:CSE105 Time:9:00-12:00
+20101008 Md. Arifur Rahman Bhuiyan  Room:201 subject:CSE105 Time:9:00-12:00
+20101009 Md. Mahmudur Rahman  Room:201 subject:CSE105 Time:9:00-12:00
+20101010 Safi Ullah Chowdhury  Room:201 subject:CSE105 Time:9:00-12:00
+20101011 Md. Rumman Sadik  Room:201 subject:CSE105 Time:9:00-12:00
+20101012 Iftekhar Uddin Ahmed  Room:201 subject:CSE105 Time:9:00-12:00
+20101013 Md. Nazmul Islam Nayem  Room:201 subject:CSE105 Time:9:00-12:00
+20101014 Tabassum  Chowdhury  Room:201 subject:CSE105 Time:9:00-12:00
+20101015 Rahat Khan Ovik  Room:201 subject:CSE105 Time:9:00-12:00
+14101001 Pinkey Mondal Piu Room:201 subject:CSE429 Time:9:00-12:00		
+14101002 Afruza Akter Ripa Room:201 subject:CSE429 Time:9:00-12:00		
+14101003 Md. Imran Hossain Room:201 subject:CSE429 Time:9:00-12:00		
+14101004 Md. Shoaib Alam Uchhash Room:201 subject:CSE429 Time:9:00-12:00		
+14101005 Md. Jahidul Alam Room:201 subject:CSE429 Time:9:00-12:00		
+14101006 Md. Shakib Ul Alam Room:201 subject:CSE429 Time:9:00-12:00		
+14101007 Mahnaz Rafia Islam Room:201 subject:CSE429 Time:9:00-12:00		
+14101008 Mainuddin Feroz Khan Room:201 subject:CSE429 Time:9:00-12:00		
+14101009 Nishat Sultana Nisha Room:201 subject:CSE429 Time:9:00-12:00		
+14101010 Moniruzzaman Room:201 subject:CSE429 Time:9:00-12:00		
+14101011 Israt Jahan Jenny Room:201 subject:CSE429 Time:9:00-12:00		
+14101012 Sourov Kumar Sharker Room:201 subject:CSE429 Time:9:00-12:00		
+14101013 Abu Naser Md Abrar Room:201 subject:CSE429 Time:9:00-12:00		
+14101014 Md. Kamrul Hasan Room:201 subject:CSE429 Time:9:00-12:00		
+14101015 Md. Masudur Rahman Room:201 subject:CSE429 Time:9:00-12:00	
+17101001 Mirza Md. Shakil  Room:201 subject:CSE303 Time:9:00-12:00			
+17101002 Md. Shahidul Islam Room:201 subject:CSE303 Time:9:00-12:00			
+17101003 Atm Rahat Uddin Nagari	Room:201 subject:CSE303 Time:9:00-12:00		
+17101004 Fariha Tanjim	Room:201 subject:CSE303 Time:9:00-12:00		
+17101005 Md. Saheb Ali Toqi Room:201 subject:CSE303 Time:9:00-12:00			
+17101006 Aysha Akter Nezla Room:201 subject:CSE303 Time:9:00-12:00			
+17101007 Sakal Sarkar Room:201 subject:CSE303 Time:9:00-12:00			
+17101008 Al Amin Room:201 subject:CSE303 Time:9:00-12:00			
+17101009 Anamika Sultana Room:201 subject:CSE303 Time:9:00-12:00			
+17101010 Md. Fahim Islam Khan Room:201 subject:CSE303 Time:9:00-12:00			
+17101011 Protiva Arafin	Room:201 subject:CSE303 Time:9:00-12:00		
+17101012 Khan Mohammad Yeasin Saffat Room:201 subject:CSE303 Time:9:00-12:00			
+17101013 Md. Masnun Room:201 subject:CSE303 Time:9:00-12:00			
+17101014 Rakibul Islam Room:201 subject:CSE303 Time:9:00-12:00			
+17101015 Nowshin Islam Nova Room:201 subject:CSE303 Time:9:00-12:00	
+20101016 Bidita Sarkar Diba  Room:202 subject:CSE105 Time:9:00-12:00
+20101017 Mainuddin Ahmed Jahid Room:202 subject:CSE105 Time:9:00-12:00
+20101018 Ahmed Shamir Shazid Room:202 subject:CSE105 Time:9:00-12:00
+20101019 Niaz  Mahmud Room:202 subject:CSE105 Time:9:00-12:00
+20101020 Jabin Jasnim Mim Room:202 subject:CSE105 Time:9:00-12:00
+20101021 Abu Bakar Siddique Mahi Room:202 subject:CSE105 Time:9:00-12:00
+20101022 Jayonto Dutta Plabon Room:202 subject:CSE105 Time:9:00-12:00
+20101023 Farhana Sultana Eshita Room:202 subject:CSE105 Time:9:00-12:00
+20101024 Md. Nafiz Imtiaz Chowdhury Room:202 subject:CSE105 Time:9:00-12:00
+20101025 Toufiq Ahmed Shawon Room:202 subject:CSE105 Time:9:00-12:00
+20101026 Ayesha  Nasiba Room:202 subject:CSE105 Time:9:00-12:00
+20101027 Al Zubayer Saad Room:202 subject:CSE105 Time:9:00-12:00
+20101028 Jannatul  Ferdaus Room:202 subject:CSE105 Time:9:00-12:00
+20101029 Anika Tahsin Raka Room:202 subject:CSE105 Time:9:00-12:00
+20101030 Md.  Sojib Room:202 subject:CSE105 Time:9:00-12:00
+20101031 Prokriti Hasan  Rodushi Room:202 subject:CSE105 Time:9:00-12:00
+14101016 Md. Moshiur Rahman Room:202 subject:CSE429 Time:9:00-12:00		
+14101017 Pranta Kumar Modak Room:202 subject:CSE429 Time:9:00-12:00		
+14101018 Tahmid Bin Mohi Room:202 subject:CSE429 Time:9:00-12:00		
+14101019 Md. Shazid Sharier Room:202 subject:CSE429 Time:9:00-12:00		
+14101020 Md. Towhidul Islam Shrabon Room:202 subject:CSE429 Time:9:00-12:00		
+14101021 Md. Fahim-Been-Alam Room:202 subject:CSE429 Time:9:00-12:00		
+14101022 Sabikunaher Eva Room:202 subject:CSE429 Time:9:00-12:00		
+14101023 Md. Zihadul Islam Nahid Room:202 subject:CSE429 Time:9:00-12:00		
+14101024 Rafid Mohammad Ahsan Room:202 subject:CSE429 Time:9:00-12:00		
+14101025 Mst. Sharmin Sharkar Jui Room:202 subject:CSE429 Time:9:00-12:00		
+14101026 Md. Mohiuddin Rahman Room:202 subject:CSE429 Time:9:00-12:00		
+14101027 Farjana Islam Shashi Room:202 subject:CSE429 Time:9:00-12:00		
+14101028 Md. Arfakh Sad Aftad Room:202 subject:CSE429 Time:9:00-12:00		
+14101029 Md. Al Imran Room:202 subject:CSE429 Time:9:00-12:00		
+14101030 Md. Mehedi Hasan Tusar	Room:202 subject:CSE429 Time:9:00-12:00	
+14101031 Mehedi Hasan Room:202 subject:CSE429 Time:9:00-12:00	
+17101016 Saidur Rahman Emon Room:202 subject:CSE303 Time:9:00-12:00			
+17101017 Abdur Rouf Room:202 subject:CSE303 Time:9:00-12:00			
+17101018 Mir Arnab Kabir Room:202 subject:CSE303 Time:9:00-12:00			
+17101019 Aiatul Al -Amin Ador Room:202 subject:CSE303 Time:9:00-12:00			
+17101020 Farzana Akter Room:202 subject:CSE303 Time:9:00-12:00			
+17101021 Maliha Zaman Room:202 subject:CSE303 Time:9:00-12:00			
+17101022 Tahmid Anam Room:202 subject:CSE303 Time:9:00-12:00			
+17101023 Mst. Afia Sultana Room:202 subject:CSE303 Time:9:00-12:00			
+17101024 Nabiha Tahsin Room:202 subject:CSE303 Time:9:00-12:00			
+17101025 Humayra Tabassum Room:202 subject:CSE303 Time:9:00-12:00			
+17101026 Ahsan Nabee Saad Room:202 subject:CSE303 Time:9:00-12:00			
+17101027 Moshiur Rahman Tonmoy Room:202 subject:CSE303 Time:9:00-12:00			
+17101028 S.M. Asif Ibne Hayat Safkat Room:202 subject:CSE303 Time:9:00-12:00			
+17101029 Atikur Rahman Room:202 subject:CSE303 Time:9:00-12:00			
+17101030 Kaniz Fatima Room:202 subject:CSE303 Time:9:00-12:00 			
+17101031 Rubaiya Benta Mahfuj Room:202 subject:CSE303 Time:9:00-12:00	
+20101032 Mostofa Kafur Hossain Alvee Room:203 subject:CSE105 Time:9:00-12:00
+20101033 Sanjana  Afrin Room:203 subject:CSE105 Time:9:00-12:00
+20101034 Mahir Tajwar Bhuiyan Room:203 subject:CSE105 Time:9:00-12:00
+20101035 Masfiq  Rahman Room:203 subject:CSE105 Time:9:00-12:00
+20101036 Md. Fayaj Nakib Room:203 subject:CSE105 Time:9:00-12:00
+20101037 Tasfia  Rahman Room:203 subject:CSE105 Time:9:00-12:00
+20101038 Sakib  Ahmed Room:203 subject:CSE105 Time:9:00-12:00
+20101039 Sultana Razia Faria Room:203 subject:CSE105 Time:9:00-12:00
+20101040 Apurba  Datta Room:203 subject:CSE105 Time:9:00-12:00
+20101041 Munmun Islam Mim Room:203 subject:CSE105 Time:9:00-12:00
+20101042 Nafis Sadique Ayan Room:203 subject:CSE105 Time:9:00-12:00
+20101043 Apurba  Dey Room:203 subject:CSE105 Time:9:00-12:00
+20101044 Nusaiba Rafiq Surovi Room:203 subject:CSE105 Time:9:00-12:00
+20101045 Md. Habibur  Rahman Room:203 subject:CSE105 Time:9:00-12:00
+20101046 Mouno Patrick Desilva Room:203 subject:CSE105 Time:9:00-12:00
+14101032 Nahin Rowson Dipty Room:203 subject:CSE429 Time:9:00-12:00		
+14101033 Sk. Fairuz Amin Room:203 subject:CSE429 Time:9:00-12:00		
+14101034 Md. Tusher Mahmud Room:203 subject:CSE429 Time:9:00-12:00		
+14101035 Mehnaj Ahmed Room:203 subject:CSE429 Time:9:00-12:00		
+14101036 Tashnim Rahman Piash Room:203 subject:CSE429 Time:9:00-12:00		
+14101037 Md. Shamsul Arefin Room:203 subject:CSE429 Time:9:00-12:00		
+14101038 Nafisa Tasneem Room:203 subject:CSE429 Time:9:00-12:00		
+14101039 Md. Farhan Sadik Talukdar Room:203 subject:CSE429 Time:9:00-12:00		
+14101040 Nafisa Amrin Srijone Room:203 subject:CSE429 Time:9:00-12:00		
+14101041 Md Alamgeer Mia Room:203 subject:CSE429 Time:9:00-12:00		
+14101042 Afroza Khatun Room:203 subject:CSE429 Time:9:00-12:00		
+14101043 Ifron Biswas Room:203 subject:CSE429 Time:9:00-12:00		
+14101044 Kazi Fatema Farzana Room:203 subject:CSE429 Time:9:00-12:00		
+14101045 Mahmudul Hasan Room:203 subject:CSE429 Time:9:00-12:00		
+14101046 Md. Razon Room:203 subject:CSE429 Time:9:00-12:00	
+17101032 Redwan Islam Room:203 subject:CSE303 Time:9:00-12:00			
+17101033 Afia Tasnim Room:203 subject:CSE303 Time:9:00-12:00			
+17101034 Md. Mahirbin Foysal Room:203 subject:CSE303 Time:9:00-12:00			
+17101035 Md. Ferdous Alam Room:203 subject:CSE303 Time:9:00-12:00			
+17101036 Rakib Siddiquee Room:203 subject:CSE303 Time:9:00-12:00			
+17101037 Jannatul Tashrufa Room:203 subject:CSE303 Time:9:00-12:00			
+17101038 Rifah Tasfia Abedin Room:203 subject:CSE303 Time:9:00-12:00			
+17101039 Kazi Abu Bakkar Siddik	Room:203 subject:CSE303 Time:9:00-12:00 		
+17101040 Sourav Kumar Dey Room:203 subject:CSE303 Time:9:00-12:00			
+17101041 Md. Fahim Rahman Room:203 subject:CSE303 Time:9:00-12:00			
+17101042 Mehedi Hasan Room:203 subject:CSE303 Time:9:00-12:00			
+17101043 Shawon Barman Room:203 subject:CSE303 Time:9:00-12:00			
+17101044 Jasmin Akter Room:203 subject:CSE303 Time:9:00-12:00			
+17101045 Tofail Ahmmed Emon Room:203 subject:CSE303 Time:9:00-12:00			
+17101046 Maruf Ahmed Qureshi Room:203 subject:CSE303 Time:9:00-12:00
+20101047 Samiha  Munawara Room:204 subject:CSE105 Time:9:00-12:00
+20101048 Rahima Akter Bithi Room:204 subject:CSE105 Time:9:00-12:00
+20101049 Md. Tahmidul Hasan Rafi Room:204 subject:CSE105 Time:9:00-12:00
+20101050 Amatullah Ashika Amin Room:204 subject:CSE105 Time:9:00-12:00
+20101051 Md. Yasin Polok Room:204 subject:CSE105 Time:9:00-12:00
+20101052 Riazul  Hasan Room:204 subject:CSE105 Time:9:00-12:00
+20101053 Farhan Jarif Nibir Room:204 subject:CSE105 Time:9:00-12:00
+20101054 Md. Manik- Al- Mamun Room:204 subject:CSE105 Time:9:00-12:00
+20101055 Nuzhat  Zeba Room:204 subject:CSE105 Time:9:00-12:00
+20101056 Jannatul  Ferdous Room:204 subject:CSE105 Time:9:00-12:00
+20101057 Rabeya  Ferdousi Room:204 subject:CSE105 Time:9:00-12:00
+20101058 Minjamin Ahmmed Sheefat Room:204 subject:CSE105 Time:9:00-12:00
+20101059 Tanvir  Ahmed Room:204 subject:CSE105 Time:9:00-12:00
+20101060 S.M. Barid Barshon Room:204 subject:CSE105 Time:9:00-12:00
+14101047 Tangina Sultana Room:204 subject:CSE429 Time:9:00-12:00		
+14101048 Md. Tusher Room:204 subject:CSE429 Time:9:00-12:00		
+14101049 Md. Yasir Arafat Sakib	Room:204 subject:CSE429 Time:9:00-12:00	
+14101050 Borhan Uddin Room:204 subject:CSE429 Time:9:00-12:00		
+14101051 Myen Uddin Khondoker Room:204 subject:CSE429 Time:9:00-12:00		
+14101052 Amin Ahmed Shaikot Room:204 subject:CSE429 Time:9:00-12:00		
+14101053 Mahedi Hassan Shuvo Room:204 subject:CSE429 Time:9:00-12:00		
+14101054 Negar Sultana Room:204 subject:CSE429 Time:9:00-12:00		
+14101055 Samia Haque Room:204 subject:CSE429 Time:9:00-12:00		
+14101056 Md. Mozahedul Bari Room:204 subject:CSE429 Time:9:00-12:00		
+14101057 Md. Sabbir Hossen Room:204 subject:CSE429 Time:9:00-12:00		
+14101058 Sumia Afrose Room:204 subject:CSE429 Time:9:00-12:00		
+14101059 Anup Howlader Room:204 subject:CSE429 Time:9:00-12:00		
+14101060 Fahmeda Akter Room:204 subject:CSE429 Time:9:00-12:00	
+17101047 Mst Rehana Parvin Room:204 subject:CSE303 Time:9:00-12:00			
+17101048 Md. Zahir Raihan Room:204 subject:CSE303 Time:9:00-12:00			
+17101049 Shermin Akter Room:204 subject:CSE303 Time:9:00-12:00			
+17101050 Md. Shamaun Nabi Room:204 subject:CSE303 Time:9:00-12:00			
+17101051 Md. Jubayer Hoque Akib	Room:204 subject:CSE303 Time:9:00-12:00		
+17101052 Homaira Adiba Room:204 subject:CSE303 Time:9:00-12:00		
+17101053 Jannatul Ferdous Eva Room:204 subject:CSE303 Time:9:00-12:00			
+17101054 Md. Musfiqur Rahman Room:204 subject:CSE303 Time:9:00-12:00			
+17101055 Md. Shahib Anower Room:204 subject:CSE303 Time:9:00-12:00			
+17101056 Sumaiya Akter Room:204 subject:CSE303 Time:9:00-12:00			
+17101057 Abir Chandra Das Room:204 subject:CSE303 Time:9:00-12:00			
+17101058 Mujibul Haque Anik Room:204 subject:CSE303 Time:9:00-12:00			
+17101059 Md.Maidul Islam Room:204 subject:CSE303 Time:9:00-12:00			
+17101060 Azra Tuni Room:204 subject:CSE303 Time:9:00-12:00
+21101001 Ripa Rani Biswas Room:301 subject:HSS101 Time:12:00-3:00
+21101002 Tanjela Jahan Noon  Room:301 subject:HSS101 Time:12:00-3:00
+21101003 Mohammad Azmee Tofael  Room:301 subject:HSS101 Time:12:00-3:00
+21101004 Md. Mashru Ahmed  Room:301 subject:HSS101 Time:12:00-3:00
+21101005 Joyanto Das  Room:301 subject:HSS101 Time:12:00-3:00
+21101006 Rotno Dip Sarker Dip  Room:301 subject:HSS101 Time:12:00-3:00
+21101007 Mubtasim Kader Musfiq  Room:301 subject:HSS101 Time:12:00-3:00
+21101008 Arpita Debnath  Room:301 subject:HSS101 Time:12:00-3:00
+21101009 Md. Mehedi Hasan Masuk  Room:301 subject:HSS101 Time:12:00-3:00
+21101010 Md. Mehedy Hasan Piale  Room:301 subject:HSS101 Time:12:00-3:00
+21101011 Sumaiya Kadir  Room:301 subject:HSS101 Time:12:00-3:00
+21101012 Nurjahan Eliza  Room:301 subject:HSS101 Time:12:00-3:00
+21101013 Md. Muhtasim Rahman Mim  Room:301 subject:HSS101 Time:12:00-3:00
+21101014 Md Ali Riaz  Room:301 subject:HSS101 Time:12:00-3:00
+21101015 Zidny Talukdar  Room:301 subject:HSS101 Time:12:00-3:00
+16101001 Ayesha Jahan	Room:301 subject:CSE321 Time:12:00-3:00		
+16101002 Normin Hossain Rafa Room:301 subject:CSE321 Time:12:00-3:00				
+16101003 Rakin Mohammad Sifullah Room:301 subject:CSE321 Time:12:00-3:00				
+16101004 Sourov Halder	 Room:301 subject:CSE321 Time:12:00-3:00			
+16101005 Nuzhat Tabassum Progga	Room:301 subject:CSE321 Time:12:00-3:00			
+16101006 Mubina Tarannum Mollika Room:301 subject:CSE321 Time:12:00-3:00				
+16101007 Anika Tahsin Room:301 subject:CSE321 Time:12:00-3:00				
+16101008 Md. Nafees Imtiaz Ahsan Room:301 subject:CSE321 Time:12:00-3:00				
+16101009 Hasan Tahsin Rafsan Room:301 subject:CSE321 Time:12:00-3:00				
+16101010 Dhruba Doti Bhowmick Room:301 subject:CSE321 Time:12:00-3:00				
+16101011 Ruhin Ara Rishat Room:301 subject:CSE321 Time:12:00-3:00				
+16101012 Antik Modak Room:301 subject:CSE321 Time:12:00-3:00				
+16101013 Marjan Binta Halim Ashfi Room:301 subject:CSE321 Time:12:00-3:00				
+16101014 Md. Efti Khirul Alam Room:301 subject:CSE321 Time:12:00-3:00				
+16101015 Mahadi Hasan Auntu Room:301 subject:CSE321 Time:12:00-3:00	
+19101001 Arijit Bakshi	Room:301 subject:CSE205 Time:12:00-3:00	
+19101002 Mehedi Hasan Room:301 subject:CSE205 Time:12:00-3:00	  		
+19101003 Mahfuj Mahtab Mohot Room:301 subject:CSE205 Time:12:00-3:00			
+19101004 Md. Wasif Rahman Room:301 subject:CSE205 Time:12:00-3:00			
+19101005 Priyangka Tripura Room:301 subject:CSE205 Time:12:00-3:00			
+19101006 A. Faiyaz Room:301 subject:CSE205 Time:12:00-3:00			
+19101007 Rahat Bin Mobarok Room:301 subject:CSE205 Time:12:00-3:00			
+19101008 Rabeya Rahman Room:301 subject:CSE205 Time:12:00-3:00			
+19101009 Jannatun Nayeema Room:301 subject:CSE205 Time:12:00-3:00			
+19101010 Md. Taukir Sarwar Room:301 subject:CSE205 Time:12:00-3:00			
+19101011 Nooruddin - Ahammed Room:301 subject:CSE205 Time:12:00-3:00			
+19101012 Sadia Afreen Reya Room:301 subject:CSE205 Time:12:00-3:00			
+19101013 Shanjidul Huda Shozon Room:301 subject:CSE205 Time:12:00-3:00			
+19101014 Md. Alvee Ehsan Room:301 subject:CSE205 Time:12:00-3:00			
+19101015 Md. Mubtasim Fuad Room:301 subject:CSE205 Time:12:00-3:00
+21101016 Joy Sree Sarker Room:302 subject:HSS101 Time:12:00-3:00
+21101017 Munimah Mahreen Room:302 subject:HSS101 Time:12:00-3:00
+21101018 Muhana Hossain Room:302 subject:HSS101 Time:12:00-3:00
+21101019 Rabia Sultana Aunti Room:302 subject:HSS101 Time:12:00-3:00
+21101020 Md. Najmul Hassan Room:302 subject:HSS101 Time:12:00-3:00
+21101021 Jannatul Ferdus Shuchona Room:302 subject:HSS101 Time:12:00-3:00
+21101022 Md. Moznu Sarker Room:302 subject:HSS101 Time:12:00-3:00
+21101023 Md. Tariqul Islam Room:302 subject:HSS101 Time:12:00-3:00
+21101024 Md. Naimul Basher Room:302 subject:HSS101 Time:12:00-3:00
+21101025 Ishrat Jahan Room:302 subject:HSS101 Time:12:00-3:00 
+21101026 Bikrom Roy Room:302 subject:HSS101 Time:12:00-3:00
+21101027 Md. Eyasin Ahmed Sojib Room:302 subject:HSS101 Time:12:00-3:00 
+21101028 Sourav Roy Kamol Room:302 subject:HSS101 Time:12:00-3:00
+21101029 Faria Ahmed Room:302 subject:HSS101 Time:12:00-3:00
+21101030 Ahnaf Tahmid Room:302 subject:HSS101 Time:12:00-3:00
+21101031 Sumaia Akter Room:302 subject:HSS101 Time:12:00-3:00
+16101016 Ziad Nafiz Room:302 subject:CSE321 Time:12:00-3:00				
+16101017 Muhammad Bin Mujib Room:302 subject:CSE321 Time:12:00-3:00			
+16101018 Rumman Ahmed Prodhan Room:302 subject:CSE321 Time:12:00-3:00			
+16101019 Jannatul Ferdus Tanny Room:302 subject:CSE321 Time:12:00-3:00			
+16101020 Sk. Yeasin Kabir Joy Room:302 subject:CSE321 Time:12:00-3:00			
+16101021 Md. Mehedi Hasan Room:302 subject:CSE321 Time:12:00-3:00			
+16101022 Md. Miraj Hossain Room:302 subject:CSE321 Time:12:00-3:00			
+16101023 Md. Mominul Islam Room:302 subject:CSE321 Time:12:00-3:00			
+16101024 Sabrina Ahmed Meem Room:302 subject:CSE321 Time:12:00-3:00			
+16101025 Tanveer Ahamed Rabby Room:302 subject:CSE321 Time:12:00-3:00			
+16101026 Sharmin Sultana Moni Room:302 subject:CSE321 Time:12:00-3:00			
+16101027 Yasir Iqbal Mredul Room:302 subject:CSE321 Time:12:00-3:00			
+16101028 Khairul Islam Shaon Room:302 subject:CSE321 Time:12:00-3:00			
+16101029 Sumya Akter Room:302 subject:CSE321 Time:12:00-3:00			
+16101030 Nusrat Afrin Simran Room:302 subject:CSE321 Time:12:00-3:00			
+16101031 Md Nur Hossain	 Room:302 subject:CSE321 Time:12:00-3:00
+19101016 Md. Al Amin Anik Room:302 subject:CSE205 Time:12:00-3:00		
+19101017 Md. Mahamudul Hassan Shikhan Room:302 subject:CSE205 Time:12:00-3:00		
+19101018 Saima Rahman Siddika Room:302 subject:CSE205 Time:12:00-3:00		
+19101019 Abu Sayed Emon	Room:302 subject:CSE205 Time:12:00-3:00	
+19101020 Md. Rohidul Islam Room:302 subject:CSE205 Time:12:00-3:00		
+19101021 Rabeya Islam Room:302 subject:CSE205 Time:12:00-3:00		
+19101022 Shafin Mahmud Room:302 subject:CSE205 Time:12:00-3:00		
+19101023 Ehsan Bin Kabir Fahim Room:302 subject:CSE205 Time:12:00-3:00		
+19101024 Sumaya Akter Opi Room:302 subject:CSE205 Time:12:00-3:00		
+19101025 Emdadul Huq Rifat Room:302 subject:CSE205 Time:12:00-3:00		
+19101026 Md. Azim Islam	Room:302 subject:CSE205 Time:12:00-3:00	
+19101027 Afnaan Md. Sunny Room:302 subject:CSE205 Time:12:00-3:00		
+19101028 Mashrufa Mehnaz Room:302 subject:CSE205 Time:12:00-3:00		
+19101029 Md. Asif Hassan Room:302 subject:CSE205 Time:12:00-3:00		
+19101030 Md. Sabbir Ahmed Room:302 subject:CSE205 Time:12:00-3:00		
+19101031 Sumaiya Akter Room:302 subject:CSE205 Time:12:00-3:00
+21101032 Md. Mostafizur Rahman Badhon Room:303 subject:HSS101 Time:12:00-3:00
+21101033 Samiul Alam Room:303 subject:HSS101 Time:12:00-3:00
+21101034 Emran Ahmed Lemon Room:303 subject:HSS101 Time:12:00-3:00
+21101035 Sabit Yeasin Room:303 subject:HSS101 Time:12:00-3:00
+21101036 Sajeeb Sarker Room:303 subject:HSS101 Time:12:00-3:00
+21101037 Md. Meherub Hossain Yemon Room:303 subject:HSS101 Time:12:00-3:00
+21101038 Samia Akter Room:303 subject:HSS101 Time:12:00-3:00 
+21101039 Shuaib Hossain Room:303 subject:HSS101 Time:12:00-3:00
+21101040 Md. Abdullah Al Jubayer Room:303 subject:HSS101 Time:12:00-3:00
+21101041 Tangimul Islam Room:303 subject:HSS101 Time:12:00-3:00
+21101042 Ali Ahasan Room:303 subject:HSS101 Time:12:00-3:00 
+21101043 Nadia Akter Room:303 subject:HSS101 Time:12:00-3:00
+21101044 Ferdous Hasan Room:303 subject:HSS101 Time:12:00-3:00
+21101045 Md. Raduan Kabir Room:303 subject:HSS101 Time:12:00-3:00 
+21101046 Md. Emame Rabbani Rifat Room:303 subject:HSS101 Time:12:00-3:00
+16101032 Abdullah Mohammad Sakib Room:303 subject:CSE321 Time:12:00-3:00			 
+16101033 Fariha Nusrat Room:303 subject:CSE321 Time:12:00-3:00			
+16101034 Noor Nahar Room:303 subject:CSE321 Time:12:00-3:00			
+16101035 Effat Jahan Manna Room:303 subject:CSE321 Time:12:00-3:00			
+16101036 Md Sabbir Hossain Room:303 subject:CSE321 Time:12:00-3:00			
+16101037 Md. Asif Shahriar Room:303 subject:CSE321 Time:12:00-3:00			
+16101038 Rashed Khandoker Room:303 subject:CSE321 Time:12:00-3:00			
+16101039 Md. Abul Bashar Anam Room:303 subject:CSE321 Time:12:00-3:00			
+16101040 Sharvi Ahmed Fahim Room:303 subject:CSE321 Time:12:00-3:00			
+16101041 Fahim Abser Navil Room:303 subject:CSE321 Time:12:00-3:00			
+16101042 Al Shahriar Karim Tasin Room:303 subject:CSE321 Time:12:00-3:00			
+16101043 Sabrina Jahan Room:303 subject:CSE321 Time:12:00-3:00		
+16101044 Dola Saha Room:303 subject:CSE321 Time:12:00-3:00			
+16101045 Jolekha Begum Bristy Room:303 subject:CSE321 Time:12:00-3:00			
+16101046 Kashfia Jashim Room:303 subject:CSE321 Time:12:00-3:00	
+19101032 Mohebul Hasan Mazumder Room:303 subject:CSE205 Time:12:00-3:00		
+19101033 Abir Hasan Supta Room:303 subject:CSE205 Time:12:00-3:00		
+19101034 Abu Bakkar Sifullah Room:303 subject:CSE205 Time:12:00-3:00		
+19101035 Tahmeed Samin Room:303 subject:CSE205 Time:12:00-3:00		
+19101036 Sohanur Rahman	Room:303 subject:CSE205 Time:12:00-3:00	
+19101037 Rashedul Islam	 Room:303 subject:CSE205 Time:12:00-3:00	
+19101038 Kamrul Islam Rafee Room:303 subject:CSE205 Time:12:00-3:00		
+19101039 Md. Amirul Islam Room:303 subject:CSE205 Time:12:00-3:00		
+19101040 Md. Waliul Hasan Room:303 subject:CSE205 Time:12:00-3:00		
+19101041 Md. Shehanul Chowdhury	Room:303 subject:CSE205 Time:12:00-3:00	
+19101042 Md. Imam Hossain Room:303 subject:CSE205 Time:12:00-3:00		
+19101043 Meher Niger Room:303 subject:CSE205 Time:12:00-3:00		
+19101044 Rafi Al Arfan Room:303 subject:CSE205 Time:12:00-3:00		
+19101045 Rifa Tasfia Room:303 subject:CSE205 Time:12:00-3:00		
+19101046 Arzu Moni Room:303 subject:CSE205 Time:12:00-3:00
+21101047 Md. Arifur Rahman Room:304 subject:HSS101 Time:12:00-3:00
+21101048 Md. Raihan Kabir Room:304 subject:HSS101 Time:12:00-3:00
+21101049 Md. Mominul Huque Room:304 subject:HSS101 Time:12:00-3:00
+21101050 Tahmid Ahmed Room:304 subject:HSS101 Time:12:00-3:00
+21101051 Alifia Afnan Polock Room:304 subject:HSS101 Time:12:00-3:00 
+21101052 Sifat Mahmud Room:304 subject:HSS101 Time:12:00-3:00
+21101053 Tasmim-Ara-Anika Room:304 subject:HSS101 Time:12:00-3:00
+21101054 Md. Sohel Rahman Room:304 subject:HSS101 Time:12:00-3:00
+21101055 Adib Hossain Room:304 subject:HSS101 Time:12:00-3:00
+21101056 Sheikh Nafis Ul Alam Room:304 subject:HSS101 Time:12:00-3:00
+21101057 Manjuara Akter Room:304 subject:HSS101 Time:12:00-3:00
+21101058 Md. Monem Shariar Rafi Room:304 subject:HSS101 Time:12:00-3:00
+21101059 Anowar Hossen Farvez Room:304 subject:HSS101 Time:12:00-3:00
+21101060 Adity Ghosh Room:304 subject:HSS101 Time:12:00-3:00
+16101047 Rimon Saha Room:304 subject:CSE321 Time:12:00-3:00			
+16101048 Mushfiqur Rahman Room:304 subject:CSE321 Time:12:00-3:00			
+16101049 Rintu Moni Afsana Room:304 subject:CSE321 Time:12:00-3:00			
+16101050 Rifa Sadia Vabna Room:304 subject:CSE321 Time:12:00-3:00			
+16101051 Umme Salma Jui	Room:304 subject:CSE321 Time:12:00-3:00		
+16101052 Nasir Uddin Room:304 subject:CSE321 Time:12:00-3:00			
+16101053 Binati Anis Orpy Room:304 subject:CSE321 Time:12:00-3:00			
+16101054 Zarin Tasnim Room:304 subject:CSE321 Time:12:00-3:00			
+16101055 Bithy Akter Room:304 subject:CSE321 Time:12:00-3:00			
+16101056 Saumik Roy Room:304 subject:CSE321 Time:12:00-3:00			
+16101057 Md Fahim Room:304 subject:CSE321 Time:12:00-3:00			
+16101058 Tafannum Tahsin Chowdhury Room:304 subject:CSE321 Time:12:00-3:00			
+16101059 Ratin Dev Sadhon Room:304 subject:CSE321 Time:12:00-3:00			
+16101060 Jharna Akter Sharna Room:304 subject:CSE321 Time:12:00-3:00
+19101047 Fariha Rahat Pritha Room:304 subject:CSE205 Time:12:00-3:00		
+19101048 Busra Jahan Tanu Room:304 subject:CSE205 Time:12:00-3:00		
+19101049 Shahria Shanto Room:304 subject:CSE205 Time:12:00-3:00	 	
+19101050 Maruf Ahmed Chowdhury Room:304 subject:CSE205 Time:12:00-3:00		
+19101051 Md. Shihab Ahmed Room:304 subject:CSE205 Time:12:00-3:00		
+19101052 Jannnatul Faiza Room:304 subject:CSE205 Time:12:00-3:00		
+19101053 Fahim Bin Shameem Room:304 subject:CSE205 Time:12:00-3:00		
+19101054 Afrin Rahman Riya Room:304 subject:CSE205 Time:12:00-3:00		
+19101055 Asikur Rahman Sumon Room:304 subject:CSE205 Time:12:00-3:00		
+19101056 Minhajul Islam Himel Room:304 subject:CSE205 Time:12:00-3:00		
+19101057 Nushrat Roquiya Rakhi Room:304 subject:CSE205 Time:12:00-3:00		
+19101058 Ishrat Jahan Mehreen Room:304 subject:CSE205 Time:12:00-3:00		
+19101059 Hasan Al Mamun	 Room:304 subject:CSE205 Time:12:00-3:00	
+19101060 Md. Hasin Abrar Room:304 subject:CSE205 Time:12:00-3:00
+15101001 Israt Jahan Isha Room:401 subject:CSE403 Time:2:00-5:00		
+15101002 Mohamod Kabir Sadi Room:401 subject:CSE403 Time:2:00-5:00		
+15101003 Khadiza Akter Supty Room:401 subject:CSE403 Time:2:00-5:00		
+15101004 Md. Najmul Islam Room:401 subject:CSE403 Time:2:00-5:00		
+15101005 Biswambar Sarker Room:401 subject:CSE403 Time:2:00-5:00		
+15101006 Alim Al Razi Room:401 subject:CSE403 Time:2:00-5:00		
+15101007 Mir Miftazur Rahman Room:401 subject:CSE403 Time:2:00-5:00		
+15101008 Durjoy Mistry Room:401 subject:CSE403 Time:2:00-5:00		
+15101009 Abu Obayed Talha Room:401 subject:CSE403 Time:2:00-5:00		
+15101010 Sumona Sukonna Maty Room:401 subject:CSE403 Time:2:00-5:00		
+15101011 Umme Tasnim Mou Room:401 subject:CSE403 Time:2:00-5:00		
+15101012 Rashik Rahman Room:401 subject:CSE403 Time:2:00-5:00		
+15101013 Safikul Alam Room:401 subject:CSE403 Time:2:00-5:00		
+15101014 Shahana Pervin Shapla Room:401 subject:CSE403 Time:2:00-5:00		
+15101015 Nowshin Fara Jui Room:401 subject:CSE403 Time:2:00-5:00
+18101001 Ananna Boiddo Room:401 subject:CSE209 Time:2:00-5:00		
+18101002 Fayza Tabassum Tunisha	Room:401 subject:CSE209 Time:2:00-5:00	
+18101003 Zarin Tasnim Room:401 subject:CSE209 Time:2:00-5:00		
+18101004 Md. Muntasir Shofiq Room:401 subject:CSE209 Time:2:00-5:00		
+18101005 Rashedul Islam	 Room:401 subject:CSE209 Time:2:00-5:00	
+18101006 Khaira Binte Islam Mim Room:401 subject:CSE209 Time:2:00-5:00		
+18101007 Shamima Sultana Room:401 subject:CSE209 Time:2:00-5:00		
+18101008 Md. Abdur Rashid Room:401 subject:CSE209 Time:2:00-5:00		
+18101009 Md. Hasibur Rahman Room:401 subject:CSE209 Time:2:00-5:00		
+18101010 Nor Mohammad Nasim Room:401 subject:CSE209 Time:2:00-5:00		
+18101011 Afroz Jahan Vabna Room:401 subject:CSE209 Time:2:00-5:00		
+18101012 Mehedi Anam Room:401 subject:CSE209 Time:2:00-5:00		
+18101013 Tanmoy Mazumder Room:401 subject:CSE209 Time:2:00-5:00		
+18101014 Twisha Saha Chaudhury Room:401 subject:CSE209 Time:2:00-5:00		
+18101015 Ali Mostakim Alvi Room:401 subject:CSE209 Time:2:00-5:00
+15101016 Mosa. Sharmin Aktar Room:401 subject:CSE403 Time:2:00-5:00		
+15101017 Shakhawat Anol Room:401 subject:CSE403 Time:2:00-5:00	
+15101018 Md. Tanvirul Islam Room:401 subject:CSE403 Time:2:00-5:00		
+15101019 Sajal Ghosh Room:401 subject:CSE403 Time:2:00-5:00		
+15101020 Hosain Mohammad Shafa Khan Room:401 subject:CSE403 Time:2:00-5:00		
+15101021 Md. Anik Khan Room:401 subject:CSE403 Time:2:00-5:00		
+15101022 Md. Nahid Hossain Room:401 subject:CSE403 Time:2:00-5:00		
+15101023 Shahin Alam Room:401 subject:CSE403 Time:2:00-5:00		
+15101024 Rakefa Tus Sabah Room:401 subject:CSE403 Time:2:00-5:00		
+15101025 Md. Orun Sunny Room:401 subject:CSE403 Time:2:00-5:00		
+15101026 Niamul Hasan Room:401 subject:CSE403 Time:2:00-5:00		
+15101027 Md. Azizul Hakim Masuk Room:401 subject:CSE403 Time:2:00-5:00		
+15101028 Ashik- E- Elahi Room:401 subject:CSE403 Time:2:00-5:00		
+15101029 Md. Nime Molla Room:401 subject:CSE403 Time:2:00-5:00		
+15101030 Sourav Paul Room:401 subject:CSE403 Time:2:00-5:00		
+15101031 Tahura Nasrin Room:401 subject:CSE403 Time:2:00-5:00	
+18101016 Tahamid Khan Room:402 subject:CSE209 Time:2:00-5:00		
+18101017 Md. Ibrahim Khalil Room:402 subject:CSE209 Time:2:00-5:00		
+18101018 Nashrah Karim Khan Room:402 subject:CSE209 Time:2:00-5:00		
+18101019 Md. Jonayed Sarkar Room:402 subject:CSE209 Time:2:00-5:00		
+18101020 Shawan Das Room:402 subject:CSE209 Time:2:00-5:00		
+18101021 Md. Tasmim Toha Room:402 subject:CSE209 Time:2:00-5:00		
+18101022 Monjila Parvin Room:402 subject:CSE209 Time:2:00-5:00		
+18101023 Halima Khatun Room:402 subject:CSE209 Time:2:00-5:00		
+18101024 Ahnaf Iqbal Room:402 subject:CSE209 Time:2:00-5:00		
+18101025 Md. Hadaytul Habib Room:402 subject:CSE209 Time:2:00-5:00		
+18101026 Sumaiya Bhumeka Room:402 subject:CSE209 Time:2:00-5:00		
+18101027 Siam Mahmud Khan Room:402 subject:CSE209 Time:2:00-5:00		
+18101028 Farisha Hussain Room:402 subject:CSE209 Time:2:00-5:00		
+18101029 Shamira Islam Khan Room:402 subject:CSE209 Time:2:00-5:00		
+18101030 K.M. Arif - Uz - Zaman Room:402 subject:CSE209 Time:2:00-5:00		
+18101031 Farhan Labeeb Apon Room:402 subject:CSE209 Time:2:00-5:00	
+15101032 Md. Abdur Rahman Room:403 subject:CSE403 Time:2:00-5:00		
+15101033 Imtiyaz Hassan Room:403 subject:CSE403 Time:2:00-5:00		
+15101034 Farzana Akter Room:403 subject:CSE403 Time:2:00-5:00		
+15101035 Ashraful Islam Room:403 subject:CSE403 Time:2:00-5:00		
+15101036 Sakib Noor Room:403 subject:CSE403 Time:2:00-5:00		
+15101037 Sheikh Ahad Ahmed Room:403 subject:CSE403 Time:2:00-5:00		
+15101038 Nafisa Labiba Ishrat Huda Room:403 subject:CSE403 Time:2:00-5:00		
+15101039 Abdul Fattah Rakib Room:403 subject:CSE403 Time:2:00-5:00		
+15101040 Shahana Mahjubin Supty Room:403 subject:CSE403 Time:2:00-5:00		
+15101041 Md. Mehedi Ul Hasnain Room:403 subject:CSE403 Time:2:00-5:00		
+15101042 Md. Ashraful Islam Room:403 subject:CSE403 Time:2:00-5:00		
+15101043 Md Zisan Kibria Room:403 subject:CSE403 Time:2:00-5:00		
+15101044 Md. Osman Goni Room:403 subject:CSE403 Time:2:00-5:00		
+15101045 Al Khaled Rayhan Room:403 subject:CSE403 Time:2:00-5:00		
+15101046 Mariam Rahman Room:403 subject:CSE403 Time:2:00-5:00	
+18101032 Md. Nahid Hasan Room:403 subject:CSE209 Time:2:00-5:00		
+18101033 Alifun Nahar Room:403 subject:CSE209 Time:2:00-5:00		
+18101034 Nasita Nyla Room:403 subject:CSE209 Time:2:00-5:00		
+18101035 Md. Mizanur Rahman Room:403 subject:CSE209 Time:2:00-5:00		
+18101036 Nishat Tasnim Tanah Room:403 subject:CSE209 Time:2:00-5:00		
+18101037 Sarker Mohammad Riduan Room:403 subject:CSE209 Time:2:00-5:00		
+18101038 Noor Mairukh Khan Arnob Room:403 subject:CSE209 Time:2:00-5:00		
+18101039 Nakiba Nuren Rahman Room:403 subject:CSE209 Time:2:00-5:00		
+18101040 Maksuda Mostofa Munmun Room:403 subject:CSE209 Time:2:00-5:00		
+18101041 Khaledul Hasan Rahat Room:403 subject:CSE209 Time:2:00-5:00		
+18101042 Md. Rakib Hossain Room:403 subject:CSE209 Time:2:00-5:00		
+18101043 Faysal Ahmed Room:403 subject:CSE209 Time:2:00-5:00		
+18101044 Saiyara Mahmud Prachi Room:403 subject:CSE209 Time:2:00-5:00		
+18101045 Mahin Afroj Jihan Room:403 subject:CSE209 Time:2:00-5:00		
+18101046 Md. Sabbir Ahmed Room:403 subject:CSE209 Time:2:00-5:00
+15101047 Turhan Chowdhury Room:404 subject:CSE403 Time:2:00-5:00		
+15101048 Abdulla - Al - Mamun Room:404 subject:CSE403 Time:2:00-5:00		
+15101049 Md. Habibullah Sheikh Room:404 subject:CSE403 Time:2:00-5:00		
+15101050 Amir Hossain Room:404 subject:CSE403 Time:2:00-5:00		
+15101051 Shahed Hossain Room:404 subject:CSE403 Time:2:00-5:00		
+15101052 Jannatun Nayem Jemy Room:404 subject:CSE403 Time:2:00-5:00		
+15101053 S.M. Rafi Alam	Room:404 subject:CSE403 Time:2:00-5:00	
+15101054 Gobinda Mandal Room:404 subject:CSE403 Time:2:00-5:00		
+15101055 Jubaier Ahmed Room:404 subject:CSE403 Time:2:00-5:00		
+15101056 Fahim Miah Room:404 subject:CSE403 Time:2:00-5:00		
+15101057 Sharika Nawer Ahsan Room:404 subject:CSE403 Time:2:00-5:00		
+15101058 Nigar Sultana Room:404 subject:CSE403 Time:2:00-5:00		
+15101059 Farzana Ahmed Sriti Room:404 subject:CSE403 Time:2:00-5:00		
+15101060 K.M. Yeamin Saiful Room:404 subject:CSE403 Time:2:00-5:00	
+18101047 Abdullah Al Mahmud Room:404 subject:CSE209 Time:2:00-5:00		
+18101048 Abdullah Al Mamun Sazeer Room:404 subject:CSE209 Time:2:00-5:00		 
+18101049 Sadiya Sultana	 Room:404 subject:CSE209 Time:2:00-5:00	
+18101050 Md. Azimul Islam Room:404 subject:CSE209 Time:2:00-5:00		
+18101051 Arpita Acharjee Room:404 subject:CSE209 Time:2:00-5:00		
+18101052 Anika Tabassum Room:404 subject:CSE209 Time:2:00-5:00	
+18101053 Afredi Khan Chowdhury Room:404 subject:CSE209 Time:2:00-5:00		
+18101054 Sakib Shahriyar Room:404 subject:CSE209 Time:2:00-5:00		
+18101055 A. B. M. Habib Billah Zidan Room:404 subject:CSE209 Time:2:00-5:00		
+18101056 Maisha Maliha Islam Room:404 subject:CSE209 Time:2:00-5:00		
+18101057 Mehedi Hasan Room:404 subject:CSE209 Time:2:00-5:00		
+18101058 Foysal Ahmed Room:404 subject:CSE209 Time:2:00-5:00		
+18101059 Hriday Sarkar Room:404 subject:CSE209 Time:2:00-5:00		
+18101060 Fahad Bin Hafiz Room:404 subject:CSE209 Time:2:00-5:00														
